@@ -13,7 +13,7 @@ const Card = () => {
       <h1>Jessica Randall</h1>
       <h2>London, United Kingdom</h2>
       <h3>"Front-end developer and avid reader."</h3>
-      {/*you can't use the Link from next as its only for internal links */}
+      {/*you cant use the Link from next as its only for internal links */}
       <a href="https://github.com" target="blank">GitHub</a>
       <a href="https://www.frontendmentor.io">Frontend Mentor</a>
       <a href="https://www.linkedin.com">LinkedIn</a>
